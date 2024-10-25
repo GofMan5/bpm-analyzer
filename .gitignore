@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Логи и результаты
+*.log
+bpm_detector.log
+results.json
+
+# Аудиофайлы
+audios/
+*.mp3
+*.wav
+*.ogg
+*.m4a
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+*~
